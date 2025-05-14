@@ -1,7 +1,8 @@
 # DeepLiveCam Setup Tutorial
 
-Complete guide for installing and running **DeepLiveCam**, a real-time face injection tool powered by Python, ONNX models, and GPU acceleration.
-https://github.com/hacksider/Deep-Live-Cam
+Complete guide for installing and running **DeepLiveCam**, a real-time face injection tool powered by Python, ONNX models, and GPU acceleration.  
+[https://github.com/hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
 ---
 
 ## 📦 Requirements
